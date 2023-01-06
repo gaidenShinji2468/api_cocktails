@@ -28,7 +28,7 @@ function ApiCocktails()
         
 	const value = event.target[0].value;
         	
-	setQuery(value);
+	setQuery(value.toLowerCase());
     }
     
     return (
