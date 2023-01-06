@@ -1,0 +1,7 @@
+#results {
+    width: 976px;
+    margin: 0 auto 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
